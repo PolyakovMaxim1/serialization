@@ -1,0 +1,4 @@
+java.io.IOException: Я упал
+	at com.netcracker.TryWithResources.method(TryWithResources.java:14)
+	at com.netcracker.TryWithResources.test1(TryWithResources.java:25)
+	at com.netcracker.TryWithResources.main(TryWithResources.java:10)
